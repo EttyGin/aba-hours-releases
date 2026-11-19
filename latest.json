@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
-  "file": "AbaHours-Setup-1.1.1.exe",
-  "sha512": "13sy8EMgS83GLfErDujdYdqbZmQNZsylh+M8c8Tlo57/rYSqrreQqYb28eOXYFU24rpIjWZy89kqgeMlJJjkpg==",
-  "size": 84023412,
-  "notes": "תיקון: התוכנה לא נפתחה אחרי ההתקנה. נוסף קובץ לוג לאבחון תקלות.",
-  "releaseDate": "2026-11-19T20:11:41.052Z"
+  "version": "1.2.0",
+  "file": "AbaHours-Setup-1.2.0.exe",
+  "sha512": "0rv8JzhHHYA9Zwrcbk4idR/WK/5ezX5Y0TVPhIqnCF+FebtWayDYxj0e0CJ/CDarZmhdJPMcu4YsTuLdllUTKA==",
+  "size": 84072307,
+  "notes": "תשלומים: כל תשלום נרשם כפעימה אחת עם הדיווחים שסגר. יתרה נשמרת כזכות ומקוזזת אוטומטית מדיווחים חדשים. עיצוב חדש עם אנימציות.",
+  "releaseDate": "2026-11-19T23:48:01.790Z"
 }
