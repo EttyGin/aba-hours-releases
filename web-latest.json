@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "file": "web-1.3.0.json",
-  "sha512": "+F6oBEDyi/ifHJNSpcJwX08GsMnC2b3wEz5yJD76rPzSyH7sSdwUy0bVDIqi7y4U3SP6CTwKA+ssWF61EqVL/Q==",
+  "version": "1.3.1",
+  "file": "web-1.3.1.json",
+  "sha512": "2hBvh9RN2j76/rWTg0O/cs2k88CcXoanuu4nZ8OMYfRXjLsWv9CXziXX+De6EChhQhEX4/hor8819WpV4st5tw==",
   "minShell": "1.3.0",
-  "notes": "עדכונים אוטומטיים: בכל פתיחה התוכנה בודקת אם יש גרסה חדשה ומתעדכנת לבד, בלי התקנה.",
-  "releaseDate": "2026-11-20T12:11:35.026Z"
+  "notes": "תיקונים: הודעה ברורה כשפעולה נכשלת או מצליחה. מחיקת לקוח עם תשלומים עובדת. דיווח יחידות מזהה יחידות שנוספו. זכות סוגרת כל דיווח שהיא מכסה במלואו.",
+  "releaseDate": "2026-11-20T12:26:17.908Z"
 }
