@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "file": "AbaHours-Setup-1.2.1.exe",
-  "sha512": "0x9Mch4XIFURlHkapDa2wtVHgWHbBgxrC4YUFuK08x8ztn/ig2doKlTJ3x6Ua/uhpeSvJdI2vXKBAC7LPeKfag==",
-  "size": 84076077,
-  "notes": "תיקון: עדכון מתוך התוכנה נכשל (spawn EPERM) ונתקע. ההורדה רצה ברקע עם אחוזים, ואם האנטי-וירוס חוסם התקנה שקטה נפתח חלון ההתקנה הרגיל.",
-  "releaseDate": "2026-11-20T12:03:05.983Z"
+  "version": "1.3.0",
+  "file": "AbaHours-Setup-1.3.0.exe",
+  "sha512": "6KKpC4VBr3kBhQdx8dSoSFZfu0tnjkmyX4xXFG3p4ib37eZKEP+mkzbdELEJwMX74zNNEZ7pk8GUztjXi+YRNA==",
+  "size": 84186101,
+  "notes": "עדכונים אוטומטיים: בכל פתיחה התוכנה בודקת אם יש גרסה חדשה ומתעדכנת לבד, בלי התקנה.",
+  "releaseDate": "2026-11-20T12:11:35.026Z"
 }
