@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "file": "web-1.4.0.json",
-  "sha512": "IaC+hu7b7ffHaV/r1fyJzcdtgETj4q5L4mXV88U7DlsFa1eLBKKHV4gzOZPWcbx3kUhSYKsCisGQzBFkn3N1Jg==",
+  "version": "1.4.1",
+  "file": "web-1.4.1.json",
+  "sha512": "FDIdcwdWBqw5Xx2Apc4CDMQShMmdR7Wrnp88YxOyqkZsmmNncpyAR5ZqUng/UuaTE0MOSXL2fPeNlyFwljF1kQ==",
   "minShell": "1.3.0",
-  "notes": "כפתור X שואל אם לסגור או להשאיר ברקע. הטיימר מתאפס כמו שצריך אחרי שמירה. הודעה ברורה כשאי אפשר למחוק יחידה שיש עליה דיווחים. תיקוני תשלומים וזכות.",
-  "releaseDate": "2026-11-21T20:15:33.736Z"
+  "notes": "ברישום תשלום אפשר להקליד את הסכום ישירות (גם 1,250 או 12,5), בלי חיצים. תיקון: טיימר שלפעמים לא התאפס אחרי שמירה.",
+  "releaseDate": "2026-11-21T23:34:03.544Z"
 }
