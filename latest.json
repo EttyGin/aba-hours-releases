@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "file": "AbaHours-Setup-1.3.0.exe",
-  "sha512": "6KKpC4VBr3kBhQdx8dSoSFZfu0tnjkmyX4xXFG3p4ib37eZKEP+mkzbdELEJwMX74zNNEZ7pk8GUztjXi+YRNA==",
-  "size": 84186101,
-  "notes": "עדכונים אוטומטיים: בכל פתיחה התוכנה בודקת אם יש גרסה חדשה ומתעדכנת לבד, בלי התקנה.",
-  "releaseDate": "2026-11-20T12:11:35.026Z"
+  "version": "1.4.0",
+  "file": "AbaHours-Setup-1.4.0.exe",
+  "sha512": "hSPczqwMkyIpYV226kbvpXtsHFJ2OAXOKDRxnWd36htuEfrRoKi1RqvDGcA9cyzQ8CRpnP6IaMzdJ0XffjLEkw==",
+  "size": 84089413,
+  "notes": "כפתור X שואל אם לסגור או להשאיר ברקע. הטיימר מתאפס כמו שצריך אחרי שמירה. הודעה ברורה כשאי אפשר למחוק יחידה שיש עליה דיווחים. תיקוני תשלומים וזכות.",
+  "releaseDate": "2026-11-21T20:15:33.736Z"
 }

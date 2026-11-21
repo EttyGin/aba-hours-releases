@@ -1,8 +1,8 @@
 {
-  "version": "1.3.1",
-  "file": "web-1.3.1.json",
-  "sha512": "2hBvh9RN2j76/rWTg0O/cs2k88CcXoanuu4nZ8OMYfRXjLsWv9CXziXX+De6EChhQhEX4/hor8819WpV4st5tw==",
+  "version": "1.4.0",
+  "file": "web-1.4.0.json",
+  "sha512": "IaC+hu7b7ffHaV/r1fyJzcdtgETj4q5L4mXV88U7DlsFa1eLBKKHV4gzOZPWcbx3kUhSYKsCisGQzBFkn3N1Jg==",
   "minShell": "1.3.0",
-  "notes": "תיקונים: הודעה ברורה כשפעולה נכשלת או מצליחה. מחיקת לקוח עם תשלומים עובדת. דיווח יחידות מזהה יחידות שנוספו. זכות סוגרת כל דיווח שהיא מכסה במלואו.",
-  "releaseDate": "2026-11-20T12:26:17.908Z"
+  "notes": "כפתור X שואל אם לסגור או להשאיר ברקע. הטיימר מתאפס כמו שצריך אחרי שמירה. הודעה ברורה כשאי אפשר למחוק יחידה שיש עליה דיווחים. תיקוני תשלומים וזכות.",
+  "releaseDate": "2026-11-21T20:15:33.736Z"
 }
